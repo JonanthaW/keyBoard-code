@@ -13,4 +13,4 @@ Uma simples webpage que retorna o código/evento javascript de uma tecla pressio
 
 ### :bulb: Tela da aplicação
 
-![image](https://github.com/JonanthaW/keyBoard-code/blob/main/public/assets/example1.jpg);
+![image](https://github.com/JonanthaW/keyBoard-code/blob/main//assets/example1.jpg);
