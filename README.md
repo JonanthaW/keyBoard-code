@@ -14,3 +14,9 @@ Uma simples webpage que retorna o código/evento javascript de uma tecla pressio
 ### :bulb: Tela da aplicação
 
 ![image](https://github.com/JonanthaW/keyBoard-code/blob/main//assets/example1.jpg)
+
+### :computer: Baixando o conteúdo:
+
+```bash
+$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+```
